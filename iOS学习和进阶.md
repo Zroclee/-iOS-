@@ -42,3 +42,8 @@
 ##七、Xcode 快速开发 代码块
 
  > 网址：<http://www.cocoachina.com/ios/20160930/17681.html>
+
+
+##八、iOS 开发之照片框架详解
+ 
+ > 网址：<http://kayosite.com/ios-development-and-detail-of-photo-framework-part-two.html>
