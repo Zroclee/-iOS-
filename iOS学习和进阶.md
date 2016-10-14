@@ -4,7 +4,7 @@
 ##一、动效设计，感受各种华丽的动态和特效
 
   > 网址：<http://www.cocoachina.com/special/appdesign/>
-    
+    基于layer的CAAnimation都在这里了 > 网址：<http://www.cnblogs.com/wengzilin/p/4250957.html>
     
     
 ##二、常用iOS第三方库以及XCode插件介绍
